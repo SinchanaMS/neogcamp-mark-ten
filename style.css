@@ -1,0 +1,47 @@
+
+
+body {
+    background-color: #FECDD3;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-image: linear-gradient(to right, violet, lightblue);
+   
+}
+
+
+input {
+    border-radius: 30px 50px 30px 50px;
+    margin: 0.5rem auto 1rem auto;
+    font-weight: bold;
+    display: block; 
+    padding: 1rem;
+    font-size: larger;
+    text-align: center;
+}
+
+button {
+    border: 2px solid;
+    border-radius: 2rem;
+    margin-top: 0.5rem;
+    background-color:lightblue;
+    font-weight: bolder;
+    padding: 0.5rem 2rem;
+    background-image: linear-gradient(to right, violet, lightblue);
+    cursor: pointer;
+}
+
+table, td, th{
+    border: black solid 0.5px;
+    border-collapse: collapse;
+    padding: 1rem;
+    text-align: center;
+    margin: auto;
+    border-radius: 2rem;
+    cursor: pointer;
+}
+
+
+.container{
+    text-align: center;
+    margin: auto;
+    max-width: 70%;
+}
