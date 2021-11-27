@@ -37,6 +37,8 @@ table, td, th{
     margin: auto;
     border-radius: 2rem;
     cursor: pointer;
+    max-width: 40%;
+    display: block;
 }
 
 
